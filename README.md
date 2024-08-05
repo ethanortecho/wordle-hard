@@ -29,7 +29,7 @@ I created this project to challenge myself by replicating the logic of Wordle an
 - **Play Again or Exit Options**: Provides the option to play again or exit the game upon completion.
 
 ## 3. Technologies Used
--**Python**: The core language used for the logic and functionality of the game.
--**Tkinter:** Used for building the graphical user interface (GUI).
--**Random Word API**: For generating random words for the game.
--**Merriam-Webster Dictionary API**: For fetching and displaying word definitions.
+- **Python**: The core language used for the logic and functionality of the game.
+- **Tkinter:** Used for building the graphical user interface (GUI).
+- **Random Word API**: For generating random words for the game.
+- **Merriam-Webster Dictionary API**: For fetching and displaying word definitions.
