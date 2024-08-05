@@ -1,15 +1,6 @@
 # Ethan's Wordle (Hard Edition)
 
-### Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Technologies Used](#technologies-used)
-6. [Challenges and Solutions](#challenges-and-solutions)
-7. [Future Improvements](#future-improvements)
-8. [Contact](#contact)
 
 ## 1. Introduction
 
