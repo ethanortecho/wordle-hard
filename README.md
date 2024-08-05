@@ -28,14 +28,8 @@ I created this project to challenge myself by replicating the logic of Wordle an
 - **Color-Coded Feedback**: Updates the background colors of the letters in the grid to indicate correct letters in the correct spot (green), correct letters in the wrong spot (yellow), and incorrect letters (grey).
 - **Play Again or Exit Options**: Provides the option to play again or exit the game upon completion.
 
-## 3. Installation
-
-### Prerequisites
-
-- Python 3.x installed on your machine
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/project-name.git
+## 3. Technologies Used
+-**Python**: The core language used for the logic and functionality of the game.
+-**Tkinter:** Used for building the graphical user interface (GUI).
+-**Random Word API**: For generating random words for the game.
+-**Merriam-Webster Dictionary API**: For fetching and displaying word definitions.
